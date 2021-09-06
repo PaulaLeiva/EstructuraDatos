@@ -1,0 +1,16 @@
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\bin\Debug\net5.0\Punto3.exe
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\bin\Debug\net5.0\Punto3.deps.json
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\bin\Debug\net5.0\Punto3.runtimeconfig.json
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\bin\Debug\net5.0\Punto3.runtimeconfig.dev.json
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\bin\Debug\net5.0\Punto3.dll
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\bin\Debug\net5.0\ref\Punto3.dll
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\bin\Debug\net5.0\Punto3.pdb
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\obj\Debug\net5.0\Punto3.csproj.AssemblyReference.cache
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\obj\Debug\net5.0\Punto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\obj\Debug\net5.0\Punto3.AssemblyInfoInputs.cache
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\obj\Debug\net5.0\Punto3.AssemblyInfo.cs
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\obj\Debug\net5.0\Punto3.csproj.CoreCompileInputs.cache
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\obj\Debug\net5.0\Punto3.dll
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\obj\Debug\net5.0\ref\Punto3.dll
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\obj\Debug\net5.0\Punto3.pdb
+C:\Users\mleiv\OneDrive\Escritorio\Punto3\obj\Debug\net5.0\Punto3.genruntimeconfig.cache
